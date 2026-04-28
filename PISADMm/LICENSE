@@ -1,0 +1,69 @@
+PISADM License and Third-Party Notices
+
+Copyright (c) 2026 PISADM authors. All rights reserved.
+
+1. PISADM-Owned Code and Documentation
+
+This license applies only to PISADM-owned source code and documentation in
+this repository, including:
+
+- PISADM.m
+- README.md
+- third_party.md
+- MODIFICATIONS.md
+
+unless a file explicitly states otherwise.
+
+Permission is granted to view, download, and use the PISADM-owned code and
+documentation for academic and non-commercial research purposes.
+
+Redistribution, modification, sublicensing, commercial use, or inclusion of
+the PISADM-owned code in another public or private software package requires
+prior written permission from the PISADM copyright holder.
+
+2. SACDm and Modified SACDm Files
+
+This repository may include a copy of SACDm under the `SACDm-main` folder.
+SACDm is third-party software developed by Weisong Zhao and contributors.
+The original SACDm project is available at:
+
+https://github.com/WeisongZhao/SACDm
+
+SACDm is distributed by its original authors under the Open Data Commons Open
+Database License v1.0, with non-commercial-use language stated in the SACDm
+repository README. SACDm and its original source files are not owned by the
+PISADM authors and are not relicensed by this repository.
+
+Some SACDm files in this repository may have been modified for compatibility
+with, or use in, the PISADM workflow. These modifications are documented in
+MODIFICATIONS.md. Such modified SACDm files remain derived from SACDm and
+remain subject to the original SACDm authors' ownership, license terms,
+citation requirements, and non-commercial-use restrictions, to the extent
+applicable.
+
+The PISADM license does not grant any additional rights to SACDm, modified
+SACDm files, or other third-party software.
+
+3. Citation
+
+If SACDm contributes to results generated using this repository, users should
+cite the SACDm publication in addition to any PISADM-related publication:
+
+Weisong Zhao et al., "Enhanced detection of fluorescence fluctuation for
+high-throughput super-resolution imaging", Nature Photonics, 2023.
+https://doi.org/10.1038/s41566-023-01234-9
+
+4. Warranty Disclaimer
+
+This software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and noninfringement. In no event shall the
+authors or copyright holders be liable for any claim, damages, or other
+liability arising from the use of this software.
+
+5. Third-Party Files
+
+Third-party code, data, documentation, and other materials included in or used
+with this repository remain governed by their own license terms. Users are
+responsible for reviewing and complying with those terms before use,
+redistribution, or publication.
